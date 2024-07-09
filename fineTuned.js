@@ -62,7 +62,7 @@ async function run() {
 
   const result = await chatSession.sendMessage(input);
   const offer = result.response.text();
-  fs.writeFileSync('./oferta.txt', offer);
+  fs.writeFileSync('./offer.txt', offer);
 }
 
 run();
