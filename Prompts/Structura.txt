@@ -1,0 +1,19 @@
+Split the project into steps to follow in order to implement a custom software solution for the client. Make sure to tailor the steps to match what the client requests.
+The project steps should be written exactly as below,I will write some notes in parantheses for you to take into consideration:
+
+"1. Secțiune de Comenzi și Stocuri(Simple names for non-technical person to understand):
+
+-	Implementarea unui sistem de gestionare a comenzilor online, inclusiv verificarea stocurilor de materiale și costurile de achiziție (Înainte de a plasa comanda, se va genera automat o ofertă. Administratorii vor valida oferta, iar apoi aceasta va fi trimisă către client printr-un buton dedicat. Comanda va fi procesată doar atunci când clientul acceptă oferta, moment în care stocurile vor fi rezervate timp de 2 zile, astfel încât materialele să fie disponibile în momentul acceptării ofertei de către client).
+-	Sistem de gestionare a resturilor de materiale, unde informațiile despre dimensiuni și cantități pot fi introduse și monitorizate.
+-	Automatizarea extragerii necesarului de materiale din stocuri și din resturile disponibile pentru fiecare comandă nouă.
+- Timp de dezvoltate: 25 zile(Approximate days) * 2 programatori(approximate workers)
+
+2. ..."
+
+The project steps should be what you consider to be the best way to implement the project.
+Only include the steps that will be relevant for a non-technical person to understand.
+Don't try to improve the text in any possible way.
+Do not modify the lsteps structure.
+Do not try to improve the steps structure.
+Do not provide any aditionnal notes, conclusions or explainations.
+Everything will be written in Romanian for Romanian clients.

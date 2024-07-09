@@ -1,0 +1,15 @@
+Based on our project structure, come up with 2 extra features for the application. The features will be presented in the exact structure as below:
+
+"1.	Sistem care permite lucrul de la mai multe puncte de lucru, cu posibilitatea de a comuta ușor între ele.
+ - Timp de dezvoltate: 40 ore * 1 programator
+-
+2.	Sistem de chat live pentru a discuta cu clienții noi sau clienții deja existenți în CRM.
+		 - Timp de dezvoltate: 80 ore * 1 programator - X Euro"
+
+Approximate the time and workers needed to fulfill the proposed extra features.
+The extra features should be something that the project will benefit from.
+Don't try to improve the text in any possible way.
+Do not modify the extra features presentation structure above.
+Do not try to improve the extra features presentation structure.
+Do not provide any aditionnal notes, conclusions or explainations.
+Everything will be written in Romanian for Romanian clients.

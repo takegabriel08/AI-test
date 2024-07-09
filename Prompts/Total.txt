@@ -1,0 +1,11 @@
+Summarize the time in days and workers for the entirety of the project in 2 separate statements. The summaries will be presented in the exact structure as below:
+
+"-	46.5 zile * 2 programatori (372 Ore lucratoare dezvoltare baza): X Euro
+-	15 zile * 2 programatori (secțiunea sugestii  + 120 Ore lucratoare): X Euro"
+
+Calculate the total time and workers needed to fulfill the main project.
+Calculate the total time and workers needed to fulfill the proposed extra features.
+Don't try to improve the text structure in any possible way.
+Do not modify the summary structure above.
+Do not provide any aditionnal notes, conclusions or explainations.
+Everything will be written in Romanian for Romanian clients.
