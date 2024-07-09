@@ -5,7 +5,7 @@ This is a demo project that works with **Google aistudio**. If you want to learn
 ## How to get started?
 
 First you need to clone the repo by running git clone **https://github.com/takegabriel08/AI-test.git**.
-open the folder in terminal or drag the folder on to VS Code.
+open the folder AI-test in a terminal or drag the folder on to VS Code.
 Then do npm install.
 Make sure to create a .env file where you set your own google aistudio api key from [Over here](https://aistudio.google.com/app/apikey)
 
